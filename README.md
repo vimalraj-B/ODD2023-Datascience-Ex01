@@ -19,3 +19,10 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT
+
+```
+import pandas as pd
+df=pd.read_csv("/content/SAMPLEIDS (1).csv")
+df
+```
+https://github.com/user-attachments/assets/8d6c773d-7414-48ad-9ff5-9bf49e9d38f8
